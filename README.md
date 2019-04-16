@@ -2,4 +2,4 @@
 A simple React App that solves unambiguously deterministic sudukos.
 
 # Setup
-Clone Repository and npm -i --save
+Clone Repository and npm -i
